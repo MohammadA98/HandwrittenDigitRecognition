@@ -85,8 +85,8 @@ This project focuses on:
   LinkedIn: [Mohammad Alhabli](https://linkedin.com/in/MohammadA98)
 
 - **Ramesh Dhanasekaran**  
-  GitHub: [@](https://github.com/)  
-  LinkedIn: [](https://linkedin.com/in/)
+  GitHub: [@rdhanase](https://github.com/)  
+  LinkedIn: [Ramesh Dhanasekaran](https://linkedin.com/in/)
 
 
 
